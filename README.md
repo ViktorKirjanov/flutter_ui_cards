@@ -8,5 +8,9 @@
 
  | List View| Settings Drawer |
  |-----------|-----------|
- |<img src="screen-1.png" width="400" >|<img src="screen-2.png" width="400"> |
+ |<img src="screen-1.png" width="300" >|<img src="screen-2.png" width="300"> |
+
+ | List View GIF | Settings Drawer GIF |
+ |-----------|-----------|
+ |<img src="animation-1.gif" width="300" >|<img src="animation-2.gif" width="300"> |
 
